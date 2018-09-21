@@ -1,6 +1,6 @@
 # mapper-common
 
-#### 适用于SpringMVC+MyBatis框架，封装项目经常使用的组件功能
+#### 基于SpringBoot的基础web服务封装，适用于SpringMVC+MyBatis框架，封装项目经常使用的组件功能
 
 - BaseService提供常用增删改查、批量操作、基于lambda函数封装分页方法
 - ControllerAdvice全局异常处理
